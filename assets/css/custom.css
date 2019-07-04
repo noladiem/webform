@@ -1,0 +1,12 @@
+.red{
+	color:#d92005;text-transform:uppercase;font-weight:600;display:none;
+}
+.error{
+	border:#d92005 1px solid;
+}
+.field-row{
+	padding:1%;display:inline-block;width:40%;
+}
+#container{
+	width:960px;margin:5% auto; max-width:100%;padding:1%;
+}
